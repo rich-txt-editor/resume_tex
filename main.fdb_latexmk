@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1723764447.56973 "/Users/what/Documents/Personal Records/Resume Cover letter/resumes/main.tex" "main.pdf" "main" 1723764448.12909 0
-  "/Users/what/Documents/Personal Records/Resume Cover letter/resumes/main.tex" 1723764447.36396 8393 2883b203acc59d35e2cb5647686b8283 ""
+["pdflatex"] 1729443306.38425 "/Users/what/Sites/resume_tex/main.tex" "main.pdf" "main" 1729443306.94139 0
+  "/Users/what/Sites/resume_tex/main.tex" 1729443306.18239 8342 19ae317c7fd9a85dbe79deac82b1ba47 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -88,9 +88,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720203032.94929 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720202962 8221447 e9091fe788a2d9516184550686637a8e ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1723764448.08216 673 ee41cf5f918d8b7d2e05740b6756d942 "pdflatex"
-  "main.out" 1723764448.08301 390 4d3a3466df4aec76556325aafe36c0f3 "pdflatex"
-  "main.tex" 1723764447.36396 8393 2883b203acc59d35e2cb5647686b8283 ""
+  "main.aux" 1729443306.89278 673 ee41cf5f918d8b7d2e05740b6756d942 "pdflatex"
+  "main.out" 1729443306.89366 390 4d3a3466df4aec76556325aafe36c0f3 "pdflatex"
+  "main.tex" 1729443306.18239 8342 19ae317c7fd9a85dbe79deac82b1ba47 ""
   (generated)
   "main.aux"
   "main.log"
