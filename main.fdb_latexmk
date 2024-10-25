@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1729444114.80717 "/Users/what/Sites/resume_tex/main.tex" "main.pdf" "main" 1729444115.33546 0
-  "/Users/what/Sites/resume_tex/main.tex" 1729444114.63101 8287 765c67c6866fa4d6a9654707dc48f8a5 ""
+["pdflatex"] 1729869774.39015 "/Users/what/Sites/resume_tex/main.tex" "main.pdf" "main" 1729869774.95343 0
+  "/Users/what/Sites/resume_tex/main.tex" 1729869773.64469 8693 30205804f249d93e7432daff419eb436 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -88,9 +88,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720203032.94929 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720202962 8221447 e9091fe788a2d9516184550686637a8e ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1729444115.29046 673 73942b5a7173ade367b3b1f1b32cfae6 "pdflatex"
-  "main.out" 1729444115.29137 390 c20df0732a26e929d2e5c5462d70cbf8 "pdflatex"
-  "main.tex" 1729444114.63101 8287 765c67c6866fa4d6a9654707dc48f8a5 ""
+  "main.aux" 1729869774.90876 673 769de443c37e8ed5f6007e788302e16b "pdflatex"
+  "main.out" 1729869774.90964 390 c20df0732a26e929d2e5c5462d70cbf8 "pdflatex"
+  "main.tex" 1729869773.64469 8693 30205804f249d93e7432daff419eb436 ""
   (generated)
   "main.aux"
   "main.log"
